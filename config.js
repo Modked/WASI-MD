@@ -74,7 +74,7 @@ module.exports = {
   caption : process.env.CAPTION || "𝙵𝙸𝙻𝙴 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 ＷＡＳＩ ＭＤ🚩" , // ```『 ²⁴ ᴠᴇɴᴏᴄʏʙᴇʀ-ᴍᴅ 』```", //*『ᴠᴇɴᴏᴄʏʙᴇʀ ᴍᴅ』*\n youtube.com/@JASTINMTEWA-vn9pl"),
  
   author : process.env.PACK_AUTHER|| "𝗪𝗔𝗦𝗜 ",
-  packname: process.env.PACK_NAME || "♥️",
+  packname: process.env.PACK_NAME || "🐧",
   botname : process.env.BOT_NAME  || "𝗪𝗔𝗦𝗜 𝗠𝗗",
   ownername:process.env.OWNER_NAME|| "It's Tanjiro",
 
